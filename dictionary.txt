@@ -1,0 +1,1 @@
+{'Names': ['Fred', 'John'], 'Addresses': ['Pontypridd', 'Treforest'], 'Credit': ['10', '20'], 'Product Names': ['Widget1', 'Widget2'], 'Suppliers': ['SupplierA', 'SupplierB'], 'Prices': ['10', '20']}
