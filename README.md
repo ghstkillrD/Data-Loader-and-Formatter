@@ -4,7 +4,7 @@ This is a simple Python project designed to read structured data from a text fil
 
 ## Features
 
-Load Data into Dictionary: Reads data from a file and stores it in a dictionary with column headers as keys and lists of values.
-Load Data into List: Reads data from a file and stores it in a list, maintaining the order of lines.
-Output Data from Dictionary: Prints the contents of a dictionary in a formatted way.
-Output Data from List: Prints the contents of a list in a formatted way.
+- Load Data into Dictionary: Reads data from a file and stores it in a dictionary with column headers as keys and lists of values.
+- Load Data into List: Reads data from a file and stores it in a list, maintaining the order of lines.
+- Output Data from Dictionary: Prints the contents of a dictionary in a formatted way.
+- Output Data from List: Prints the contents of a list in a formatted way.
